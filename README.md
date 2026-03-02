@@ -1,1 +1,3 @@
-# Git_course
+# git course
+for elzeero
+## project notes
